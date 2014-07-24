@@ -6,7 +6,7 @@ This was one our earliest projects in The Iron Yard Academy. For the assignment,
 Primary Technologies: <br>
 HTML, CSS
 
-View Live: <br>
+View the Project Live: <br>
 http://lancegputnam.github.io/CSS-Examples-Day-5
 
 ![Picture](https://farm6.staticflickr.com/5481/14644313331_f903543ab3_o.png)
